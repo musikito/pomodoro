@@ -1,0 +1,38 @@
+/** Main CSS classes */
+body {
+    background-color: #292F36;
+    color: #14CC60;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.app {
+    background-color: white; 
+    padding: 20px; 
+    margin: 20px auto;
+    border-left: 4px solid slategray;
+}
+
+.white{color:white;}
+
+.countdown-clock {
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+    border-radius: 400px;
+    margin: 50px auto;
+    cursor: pointer;
+}
+
+.controls {
+    margin: 10px auto;
+}
+
+.countdown-timer {
+    text-align: center;
+    margin-top: 120px;
+}
+
+#timeLeft {
+    font-size: 6em;
+    text-align: center;
+}
