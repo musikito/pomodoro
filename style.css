@@ -1,7 +1,8 @@
 /** Main CSS classes */
 body {
     background-color: #292F36;
-    color: #14CC60;
+   /* color: #14CC60; */
+   color : #FF0000;
     font-family: 'Work Sans', sans-serif;
 }
 
