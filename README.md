@@ -9,4 +9,4 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 * I can customize the lenght of the breaks.</br>
 
 ### Attributions:
-![Free Sound Alarm](https://freesound.org/people/kwahmah_02/sounds/250629/)
+[Free Sound Alarm](https://freesound.org/people/kwahmah_02/sounds/250629/)
